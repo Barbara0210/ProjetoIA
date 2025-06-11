@@ -1,0 +1,12 @@
+Pergunta: ola
+Resposta: Ola! Como posso ajudá-lo com algo?
+
+Pergunta: quais sao os cursos da UFP?
+Resposta: A UFP oferece diversos cursos, incluindo Engenharia Informática, Medicina Dentária, Psicologia, Ciências da Comunicação e Criminologia.
+
+Pergunta: fala me do curso de engenharia informatica 
+Resposta: O curso de Engenharia Informática da UFP é um curso completo e de 180 creditos, que cobre os principais tópicos da engenharia informática. O curso é dividido em 6 unidades, cada uma com um temas único, que são interconectados entre si.
+
+Pergunta: que unidades curriculares tem? 
+Resposta: A UFP oferece diversas unidades curriculares, como cursos de graduação, pós-graduação e short courses.
+

@@ -1,0 +1,16 @@
+Pergunta: Quais sao as unidades curriculares da licenciatura em engenharia informatica da ufp?
+Resposta: As unidades curriculares da licenciatura em Engenharia Informatica da UFP incluem:
+
+- Programação I e II
+- Algoritmia e Estruturas de Dados
+- Sistemas Digitais
+- Matemática Discreta
+- Bases de Dados
+- Redes de Computadores
+- Engenharia de Software
+- Sistemas Operativos
+- Inteligência Artificial
+- Computação Gráfica
+- Projeto de Desenvolvimento de Software
+- Projeto Final de Curso
+

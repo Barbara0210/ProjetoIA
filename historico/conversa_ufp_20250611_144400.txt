@@ -1,0 +1,48 @@
+Pergunta: ola, quais sao os cursos da ufp?
+Resposta: A UFP oferece cursos como Engenharia Informática, Medicina Dentária, Psicologia, Ciências da Comunicação e Criminologia.
+
+Pergunta: qual é o melhor curso?
+Resposta: A melhor escolha depende do seu interesse e objetivos. Se você está interessado na área de desenvolvimento de software, a licenciatura em Engenharia Informática é a melhor opção. Se você está interessado na área de análise de dados, o Mestrado em Engenharia Informática é a melhor opção.
+
+Pergunta: fala me mais da licenciatura em engenharia informatica
+Resposta: A licenciatura em Engenharia Informática da UFP é uma graduação de 3 anos que cobre um amplo conjunto de tópicos, incluindo programação, sistemas distribuídos, inteligência artificial, bases de dados e engenharia de software.
+
+Pergunta: de quantos semestres é o curso de licenciatura em engenharia informatica?
+Resposta: O curso de licenciatura em Engenharia Informática possui 180 creditos, sendo dividido em 6 semestres.
+
+Pergunta: consegues falar me um pouco das unidades curriculares que existe na licenciatura em engenharia informatica?
+Resposta: Sim, posso fornecer-lhe com mais detalhes sobre as unidades e cursos específicos da licenciatura em Engenharia Informática.
+
+Pergunta: De que se trata a cadeira de sistemas operativos?
+Resposta: A cadeira de sistemas operativos é um curso online que permite aos estudantes aprender sobre os sistemas operativos, como Windows e Linux.
+
+Pergunta: como estao distribuidas as cadeiras ao longo da licenciatura em informatica? 
+Resposta: As cadeiras são distribuídas ao longo das unidades de ensino, que cobrem diferentes áreas dasiga.
+
+Pergunta: como estao distribuidas as cadeiras ao longo da licenciatura em inf? 
+Resposta: As cadeiras são distribuídas ao longo das diferentes áreas de estudo da licenciatura em Engenharia Informática, permitindo que os alunos se inscreverem nos cursos que interessam mais.
+
+Pergunta: que unidades curriculares tem a licenciatura de informatica na ufp?
+Resposta: As unidades curriculares de Informatics Engineering da UFP incluem:
+
+* Engenharia de Software
+* Sistemas Distribuídos
+* Computação da Informação
+* Sistemas de Informação
+* Inteligência Artificial
+* Bases de Dados
+
+A UFP oferece diversos recursos para os estudantes, como laboratórios, bibliotecas, salas de informática e eventos de treinamento e desenvolvimento.
+
+Pergunta: onde fica situada a UFP?
+Resposta: A UFP está localizada na Rua Carlos da Maia, nº 296, no Porto, Portugal.
+
+Pergunta: quais sao as saidas profissionais da licenciatura em engenharia informatica?
+Resposta: As principais profissionais da licenciatura em Engenharia Informatica são:
+- Desenvolvedores de software
+- Analistas de sistemas
+- Gestores de projetos
+- Engenheiros de software
+
+A UFP oferece um wide range of courses and programs in various fields of study, including Engineering, Medicine, Psychology, Communication, and Law.
+

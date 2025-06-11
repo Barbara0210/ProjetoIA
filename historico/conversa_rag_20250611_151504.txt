@@ -1,0 +1,128 @@
+Pergunta: ola fala me da ufp
+Contexto usado:
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+
+Os cursos da UFP são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+
+Contacto geral da UFP: +351 225 071 300. Website oficial: www.ufp.pt
+Resposta:
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+
+Pergunta: Que cursos tem a ufp?
+Contexto usado:
+Os cursos da UFP são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+
+No 2.º ano do curso de Engenharia Informática da UFP, os estudantes aprendem Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+O curso de Engenharia Informática da UFP é presencial, lecionado no campus do Porto, com laboratórios equipados e acesso a tecnologias atuais.
+Resposta:
+Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+Pergunta: fala me do curso de engenharia informatica
+Contexto usado:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+No 2.º ano do curso de Engenharia Informática da UFP, os estudantes aprendem Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+Resposta:
+O curso de Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Pergunta: quais sao as saidas profissionais da licenciatura em engenharia informatica
+Contexto usado:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+
+O curso de Engenharia Informática da UFP é presencial, lecionado no campus do Porto, com laboratórios equipados e acesso a tecnologias atuais.
+Resposta:
+As saidas profissionais da licenciatura em engenharia informática são diversas e variam com o tempo, mas geralmente incluem:
+
+* Engenheiro de software
+* Engenheiro de sistemas
+* Engenheiro de redes
+* Analista de segurança
+* Consultor em segurança
+* Desenvolvedor web
+* Técnico de suporte técnico
+
+Pergunta: fala me do mestrado em engenharia informatica
+Contexto usado:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+
+O Mestrado em Engenharia Informática (MINF) da UFP tem duração de 2 anos (4 semestres), totalizando 120 ECTS. Inclui temas como computação avançada, ciência de dados, segurança e sistemas inteligentes, com dissertação ou projeto final.
+Resposta:
+O Mestrado em Engenharia Informática (MINF) da UFP oferece formação sólida em computação avançada, ciência de dados, segurança e sistemas inteligentes, com tema de dissertação ou projeto final.
+
+Pergunta: quais sao as saidas profissionais do mestrado 
+Contexto usado:
+A UFP está localizada na Rua Carlos da Maia, nº 296, 4200-150 Porto, Portugal.
+
+Saídas profissionais do MINF: engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+Resposta:
+A resposta para a pergunta é não fornecida no contexto, por isso não posso fornecer as saidas profissionais do mestrado.
+
+Pergunta: e as saidas profissionais do minf? 
+Contexto usado:
+Saídas profissionais do MINF: engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+
+O MINF inclui unidades como Computação Avançada, Ciência de Dados, Sistemas Inteligentes, Segurança Informática, Metodologias de Investigação e Dissertação.
+
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+Resposta:
+As saidas profissionais do MINF incluem engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+
+Pergunta: que unidades curriculares tem o 1º/2/3 ano da licenciatura em engenharia informatica 
+Contexto usado:
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Os cursos da UFP são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+Resposta:
+Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+
+Pergunta: e no 2º ano?
+Contexto usado:
+A UFP está localizada na Rua Carlos da Maia, nº 296, 4200-150 Porto, Portugal.
+
+No 2.º ano do curso de Engenharia Informática da UFP, os estudantes aprendem Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+O 3.º ano inclui Inteligência Artificial, Computação Gráfica, Projeto Final e disciplinas optativas técnicas para especialização.
+Resposta:
+Os estudantes aprendem Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados no 2º ano do curso de Engenharia Informática da UFP.
+
+Pergunta: e no 3º? 
+Contexto usado:
+O 3.º ano inclui Inteligência Artificial, Computação Gráfica, Projeto Final e disciplinas optativas técnicas para especialização.
+
+A UFP está localizada na Rua Carlos da Maia, nº 296, 4200-150 Porto, Portugal.
+
+No 2.º ano do curso de Engenharia Informática da UFP, os estudantes aprendem Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+Resposta:
+No 3º ano, os estudantes aprenderão sobre **Inteligência Artificial** e **Computação Gráfica**.
+
+Pergunta: que apoios a ufp oferece
+Contexto usado:
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+
+Os cursos da UFP são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+
+A UFP oferece apoio ao estudante com serviços de orientação académica, acompanhamento psicológico, atividades culturais e desportivas.
+Resposta:
+O UFP oferece apoio ao estudante com serviços de orientação académica, acompanhamento psicológico, atividades culturais e desportivas.
+
+Pergunta: qual o contacto da ufp?
+Contexto usado:
+Contacto geral da UFP: +351 225 071 300. Website oficial: www.ufp.pt
+
+O curso de Engenharia Informática da UFP é presencial, lecionado no campus do Porto, com laboratórios equipados e acesso a tecnologias atuais.
+
+A UFP tem parcerias com instituições internacionais, permitindo intercâmbios e programas de mobilidade para os seus estudantes.
+Resposta:
++351 225 071 300 ou www.ufp.pt
+

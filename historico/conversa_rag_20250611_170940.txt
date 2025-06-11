@@ -1,0 +1,100 @@
+Pergunta: ola, fala me da ufp
+Contexto usado:
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+
+Os cursos da UFP são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+
+Contacto geral da UFP: +351 225 071 300. Website oficial: www.ufp.pt
+Resposta:
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+
+Pergunta: que cursos tem?
+Contexto usado:
+Os cursos da UFP são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+
+No 2.º ano do curso de Engenharia Informática da UFP, os estudantes aprendem Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+A UFP tem uma biblioteca moderna com acesso a recursos digitais, salas de estudo e espaços de convívio para os estudantes.
+Resposta:
+Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+Pergunta: que cursos oferece a ufp?
+Contexto usado:
+Os cursos da UFP são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+
+No 2.º ano do curso de Engenharia Informática da UFP, os estudantes aprendem Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+Resposta:
+os cursos que são lecionados maioritariamente em português são os Sistemas Operativos, Redes de Computadores, Engenharia de Software e Bases de Dados.
+
+Pergunta: qual a melhor engenharia?
+Contexto usado:
+Cursos oferecidos pela UFP: Engenharia Informática (INF), Mestrado em Engenharia Informática (MINF), Medicina Dentária, Psicologia, Criminologia, Ciências da Comunicação, Engenharia Civil, Enfermagem, Ciências Farmacêuticas e Ciências Biomédicas.
+
+A UFP está localizada na Rua Carlos da Maia, nº 296, 4200-150 Porto, Portugal.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+Resposta:
+A melhor engenharia dependerá do seu interesse e objetivos. Se está interessado na engenharia da computação, a Engenharia Informática (INF) seria a melhor opção. Se está interessado na engenharia de sistemas, a Engenharia Civil (ENG) seria a melhor opção.
+
+Pergunta: fala me da licenciatura em engenharia informatica 
+Contexto usado:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+
+Saídas profissionais do mestrado em Engenharia Informática (MINF): engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+Resposta:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Pergunta: quais sao as saidas profissionais da licenciatura em engenharia informatica?
+Contexto usado:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+
+Saídas profissionais do mestrado em Engenharia Informática (MINF): engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+Resposta:
+Engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+
+Pergunta: e do mestrado?
+Contexto usado:
+A UFP está localizada na Rua Carlos da Maia, nº 296, 4200-150 Porto, Portugal.
+
+A UFP tem parcerias com instituições internacionais, permitindo intercâmbios e programas de mobilidade para os seus estudantes.
+
+A UFP tem uma biblioteca moderna com acesso a recursos digitais, salas de estudo e espaços de convívio para os estudantes.
+Resposta:
+A UFP não oferece mestrado.
+
+Pergunta: o mestrado em engenharia informatica, fala me dele
+Contexto usado:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+
+O Mestrado em Engenharia Informática (MINF) da UFP tem duração de 2 anos (4 semestres), totalizando 120 ECTS. Inclui temas como computação avançada, ciência de dados, segurança e sistemas inteligentes, com dissertação ou projeto final.
+Resposta:
+O Mestrado em Engenharia Informática da UFP oferece formação especializada em computação avançada, ciência de dados, segurança e sistemas inteligentes.
+
+Pergunta: e saidas profissionais?
+Contexto usado:
+A UFP oferece apoio ao estudante com serviços de orientação académica, acompanhamento psicológico, atividades culturais e desportivas.
+
+A UFP é uma universidade privada com forte aposta na formação técnica e científica, com ligação ao mundo empresarial e à investigação aplicada.
+
+A UFP está localizada na Rua Carlos da Maia, nº 296, 4200-150 Porto, Portugal.
+Resposta:
+A UFP oferece orientação profissional aos seus estudantes.
+
+Pergunta: e saidas profissionais do mestrado de engenharia informatica?
+Contexto usado:
+A licenciatura em Engenharia Informática da UFP oferece formação sólida em algoritmia, programação, sistemas distribuídos, IA, segurança informática e bases de dados. Tem duração de 3 anos (6 semestres) e confere 180 ECTS.
+
+Saídas profissionais do mestrado em Engenharia Informática (MINF): engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+
+Unidades curriculares do 1.º ano da licenciatura em Engenharia Informática incluem Programação I, Algoritmia e Estruturas de Dados, Sistemas Digitais e Matemática Discreta.
+Resposta:
+Engenheiro de software sénior, especialista em cibersegurança, investigador em IA, cientista de dados, docente universitário e consultor avançado de TI.
+

@@ -1,0 +1,9 @@
+Pergunta: ola que cursos existem na ufp
+Resposta: Os cursos são lecionados maioritariamente em português, mas existem unidades curriculares e programas com suporte ao inglês.
+
+Pergunta: mas isso nao é a listagem de cursos que existem
+Resposta: A resposta está incorrecta. A lista de cursos que existem é disponível, mas não é a listagem fornecida.
+
+Pergunta: que cursos existem entao?
+Resposta: Os cursos que são lecionados maioritariamente em português são aqueles oferecidos no Departamento de Linguística e Literaturas.
+

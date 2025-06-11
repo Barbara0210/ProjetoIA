@@ -1,0 +1,7 @@
+(gemmaenv) C:\Users\barba>conda create -n gemmaenv python=3.10 scipy keras
+(gemmaenv) C:\Users\barba>conda activate gemmaenv
+(gemmaenv) C:\Users\barba>pip install keras-hub
+
+cd C:\Projetos\ProjetoIA
+pip install -r requirements.txt
+python test_gemma_hf.py

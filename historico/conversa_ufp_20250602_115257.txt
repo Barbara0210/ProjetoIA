@@ -1,0 +1,15 @@
+Pergunta: ola que cursos existem na ufp 
+Resposta: A UFP oferece cursos como Engenharia Informática, Medicina Dentária, Psicologia, Ciências da Comunicação e Criminologia.
+
+Pergunta: qual é o curso mais procurado?
+Resposta: A licenciatura em Engenharia Informática é o curso mais procurado pela UFP.
+
+Pergunta: apos a licenciatura o q posso estudar?
+Resposta: O q está disponível para quem se inscrever no curso de Engenharia Informática da UFP.
+
+Pergunta: deverias responder o mestrado 
+Resposta: Sim, o mestrado é necessário para o curso de Engenharia Informática.
+
+Pergunta: nao é necessario, é o proximo passo, apos a licenciatura eles podem ingressar no mestrado 
+Resposta: Sim, o proximo passo para o mestrado é o curso de mestrado.
+

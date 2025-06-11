@@ -1,0 +1,9 @@
+Pergunta: ola, fala me da ufp
+Resposta: A UFP é uma das maiores e mais tradicionais universidades públicas em Portugal, com uma longa história e uma grande oferta de cursos e estudos.
+
+Pergunta: onde esta localizada?
+Resposta: A UFP está localizada na Rua Carlos da Maia, nº 296, no Porto, Portugal.
+
+Pergunta: que cursos tem?
+Resposta: A UFP oferece cursos como Engenharia Informática, Medicina Dentária, Psicologia, Ciências da Comunicação e Criminologia.
+
